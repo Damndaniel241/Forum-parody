@@ -17,7 +17,7 @@ function Home() {
 
     <div className="bottom-header container">
       <div className="card my-box-shadow border-end-0 rounded-circle-3 rounded-bottom-3  border-start-0 ">
-        <h6 className="text-center fs-2 card-header">NAIRALAND NIGERIA FORUMs</h6>
+        <h6 className="text-center fs-2 card-header">NAIRALAND NIGERIA FORUM</h6>
         <h6 className="text-left card-header">
           <Link to="/">Nairaland&nbsp;/&nbsp;General:&nbsp;</Link><Link to="/">Politics,</Link><Link to="/crime">&nbsp;Crime,</Link>
           <Link to="/romance">&nbsp;Romance,</Link><Link to="/">&nbsp;Jobs/Vacancies,</Link><Link to="/career">&nbsp;Career,</Link>
